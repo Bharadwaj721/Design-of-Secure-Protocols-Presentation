@@ -30,6 +30,7 @@ Authentication delay is reduced by at least 14%, and energy consumption is reduc
 
 If referencing this work, please use the following citation:
 
+```bibtex
 @article{article,
 author = {Cheng, Ran and Yang, Yukun and Zhang, Zhengzhuo and Sun, Xiaoxin and Huang, Xin and Wu, Xiaohua and Zhao, Liangbin},
 year = {2024},
@@ -40,3 +41,4 @@ volume = {PP},
 journal = {IEEE Transactions on Smart Grid},
 doi = {10.1109/TSG.2024.3435548}
 }
+''''
