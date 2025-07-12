@@ -41,4 +41,3 @@ volume = {PP},
 journal = {IEEE Transactions on Smart Grid},
 doi = {10.1109/TSG.2024.3435548}
 }
-''''
