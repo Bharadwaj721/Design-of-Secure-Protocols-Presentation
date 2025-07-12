@@ -18,13 +18,10 @@ The paper introduces LLRA (Lightweight Leakage-Resilient Authentication Key Exch
 
 ## Key contributions of this paper :
 
-LLRA is leakage-resilient, even against attacks occurring after authentication.
-
-It is analyzed using extended BPR (CLR-eBPR) and GNY (CLR-eGNY) security models.
-
-It shows provable security, logical soundness, and good practical performance.
-
-Authentication delay is reduced by at least 14%, and energy consumption is reduced by at least 7%, compared to existing protocols.
+ - LLRA is leakage-resilient, even against attacks occurring after authentication.
+ - It is analyzed using extended BPR (CLR-eBPR) and GNY (CLR-eGNY) security models.
+ - It shows provable security, logical soundness, and good practical performance.
+ - Authentication delay is reduced by at least 14%, and energy consumption is reduced by at least 7%, compared to existing protocols.
 
 ## Citation 
 
